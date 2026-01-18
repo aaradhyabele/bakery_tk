@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SWEETS 'N JOY - Bakery Management System
 
 A professional, feature-rich Bakery Management System built during my early journey with Python. This application demonstrates the integration of a Tkinter-based desktop interface with a MySQL backend, featuring real-time inventory management, sales tracking, and machine-learning-based sales forecasting.
@@ -75,3 +76,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 *Note: This project was created as a learning milestone in Python development.*
+=======
+# Bakery_management
+SWEETS’n JOY is a Python-based Bakery Management System with a Tkinter GUI and MySQL database. It handles inventory, billing, customer feedback, and employee sales reports. The system also integrates machine learning using Random Forest to predict future sales and support data-driven business decisions.
+>>>>>>> 039d75ade1cd658b8cc90d728939aab52233835b
